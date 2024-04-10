@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @madbailey
-- Just an amateur
-- Learning Python, Javascript, SQL, etc.
-- Make things mostly for fun
+- If you see any Rust on this profile please contact my mother
